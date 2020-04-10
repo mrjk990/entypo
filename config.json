@@ -185,6 +185,12 @@
       "css": "star",
       "code": 59413,
       "src": "fontawesome"
+    },
+    {
+      "uid": "197375a3cea8cb90b02d06e4ddf1433d",
+      "css": "globe",
+      "code": 59414,
+      "src": "fontawesome"
     }
   ]
 }

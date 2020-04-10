@@ -1,7 +1,7 @@
 
 .icon-keyboard:before { content: '\e800'; } /* '' */
-.icon-drive:before { content: '\e801'; } /* '' */
-.icon-database:before { content: '\e802'; } /* '' */
+.icon-ssd:before { content: '\e801'; } /* '' */
+.icon-hdd:before { content: '\e802'; } /* '' */
 .icon-gauge:before { content: '\e803'; } /* '' */
 .icon-switch:before { content: '\e804'; } /* '' */
 .icon-flow-tree:before { content: '\e805'; } /* '' */
@@ -20,8 +20,10 @@
 .icon-thumbs-down:before { content: '\e812'; } /* '' */
 .icon-heart:before { content: '\e813'; } /* '' */
 .icon-heart-empty:before { content: '\e814'; } /* '' */
+.icon-star:before { content: '\e815'; } /* '' */
 .icon-spin6:before { content: '\e839'; } /* '' */
 .icon-link-ext:before { content: '\f08e'; } /* '' */
+.icon-star-half-alt:before { content: '\f123'; } /* '' */
 .icon-windows:before { content: '\f17a'; } /* '' */
 .icon-linux:before { content: '\f17c'; } /* '' */
 .icon-twitter:before { content: '\f309'; } /* '' */

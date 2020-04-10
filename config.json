@@ -32,13 +32,13 @@
     },
     {
       "uid": "603d5ccab42d916e79d7c0fcdb56a614",
-      "css": "drive",
+      "css": "ssd",
       "code": 59393,
       "src": "entypo"
     },
     {
       "uid": "248db7c0563d8cee80b7041f7736dcad",
-      "css": "database",
+      "css": "hdd",
       "code": 59394,
       "src": "entypo"
     },
@@ -173,6 +173,18 @@
       "css": "heart-empty",
       "code": 59412,
       "src": "entypo"
+    },
+    {
+      "uid": "84cf1fcc3fec556e7eaeb19679ca2dc9",
+      "css": "star-half-alt",
+      "code": 61731,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "474656633f79ea2f1dad59ff63f6bf07",
+      "css": "star",
+      "code": 59413,
+      "src": "fontawesome"
     }
   ]
 }
